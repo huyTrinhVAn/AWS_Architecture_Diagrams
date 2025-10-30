@@ -25,7 +25,6 @@ const DiagramGallery: React.FC = () => {
         <div className="gallery-container">
             <header className="gallery-header">
                 <h1>AWS Architecture Diagrams</h1>
-                <p>Tổng hợp các kiến trúc AWS phổ biến</p>
             </header>
 
             <div className="gallery-grid">

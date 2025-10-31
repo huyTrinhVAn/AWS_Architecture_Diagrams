@@ -1,6 +1,6 @@
 // Import tất cả ảnh
 import dataLake from '../assets/diagrams/data_lake.png';
-import DDOS from '../assets/diagrams/ddos.png';
+import DDOS from '../assets/diagrams/DDOS.png';
 export interface Diagram {
     id: number;
     title: string;
